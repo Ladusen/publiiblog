@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>dumneronono.com</title>
-    <link href="https://github.io/Ladusen/publiiblog.git/feed.xml" rel="self" />
-    <link href="https://github.io/Ladusen/publiiblog.git" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <link href="https://Ladusen.github.io/publiiblog.git/feed.xml" rel="self" />
+    <link href="https://Ladusen.github.io/publiiblog.git" />
+    <updated>2025-05-25T12:01:31+08:00</updated>
     <author>
         <name>wewewein</name>
     </author>
-    <id>https://github.io/Ladusen/publiiblog.git</id>
+    <id>https://Ladusen.github.io/publiiblog.git</id>
 
+    <entry>
+        <title>你好，这是一个我的博客</title>
+        <author>
+            <name>wewewein</name>
+        </author>
+        <link href="https://Ladusen.github.io/publiiblog.git/ni-haozhe-shi-yi-ge-wo-de-bo-ke.html"/>
+        <id>https://Ladusen.github.io/publiiblog.git/ni-haozhe-shi-yi-ge-wo-de-bo-ke.html</id>
+
+        <updated>2025-05-25T12:01:27+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
